@@ -89,3 +89,8 @@ section header {
   }
 }
 
+h4 {
+  font: var(--text-span);
+  color: var(--text-color-secondary);
+}
+
